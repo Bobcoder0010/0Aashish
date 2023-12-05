@@ -24,7 +24,7 @@
 
 - 🔭 I’m currently working on **TapShare & A Web App**
 - 🌱 I’m currently learning **laravel,python,react**
-- 👯 I’m looking to collaborate on **react**
+- 👯 I’m looking to collaborate on **react,java**
 - 🤝 I’m looking for help with **laravel**
 - 💬 Ask me about **HTML,css,c,**
 - 📫 How to reach me **dellizulter@gmail.com**
